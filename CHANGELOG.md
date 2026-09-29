@@ -1,4 +1,12 @@
-# Что нового
+# Что нового / What's new
+
+## Beta 0.9.2 — 29.09.2026 · Бета 0.9.2
+**The game is in English.** The whole interface, the tutorial, 132 story events, 533 goods, the lore of 17 countries, laws and names. Settings → Language switches between English and Russian at once; the first start follows the language of Windows. Saves from earlier versions load in either language. Also on [itch.io](https://linlovedead.itch.io/trade-world).
+
+**Игра на английском.** Весь интерфейс, обучение, 132 события, 533 товара, лор 17 стран, законы и имена. «Настройки → Язык» переключает английский и русский сразу; при первом запуске — по языку Windows. Старые сохранения загружаются на любом языке. Игра теперь есть и на [itch.io](https://linlovedead.itch.io/trade-world).
+
+- Поиск товаров находит их и по английскому названию. / The goods search also finds English names.
+- Мелкие исправления подписей и чисел в окнах. / Small fixes of labels and numbers in the windows.
 
 ## Бета 0.9.1 — 29.09.2026
 - **Звуки интерфейса:** мягкие щелчки, «вдох» окон, деревянные ноты карточек, «бульк» денег. Громкость и «без звука» — в настройках.
