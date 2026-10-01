@@ -1,5 +1,28 @@
 # Что нового / What's new
 
+## Beta 0.10 — 01.10.2026 · Бета 0.10
+**Managers run your empire, the late game pays for business, and the world works more like the real one.**
+
+- **Management tab:** every building and shelf in one table; hire managers for many buildings at once, copy a setup to others, and switch on the managers' autopilot (prices by the buyers, sources, sales, mothballing losing lines).
+- **The phone is a smartphone:** apps on a home screen (Tab), trading for a sum, an inbox of offers, your subsidiaries.
+- **A better start:** the corner shop pays back sooner, a shop sells more than its usual turnover with queues and overtime (and not the same sum every month), opportunity cards in the first years, five «First steps» with rewards, and after a year in the black the bank lends for a second shop.
+- **Late game:** the exchange values a company at 15 years of its profit, subsidiaries pay all their profit and build plants in the country you send them to, buildings count in your fortune by what they earn.
+- **Influence and patronage:** sponsor an influence group, pay for a country's schools, hospitals or roads, build a museum, a hospital, a university or a foundation of your name, roll up a whole industry with one offer (watch the antitrust).
+- **As in the real world:** private and small business stays in every industry (companies no longer buy out everything), taxes on investing (13% on personal dividends and gains; the corporation pays on gains and on dividends of small stakes), a shop serves its neighbourhood, not the whole city.
+- Fixes from three machine playtests: the profit tax counted by the month and after the managers' pay, an honest goods forecast, safe setup pasting, no child heads of state, deposits from 2%, and many numbers in the windows.
+- Saves of earlier versions load; on load an old world's exchange revalues its companies within a few months.
+
+**Управляющие ведут империю, поздняя игра платит за бизнес, мир ближе к реальному.**
+
+- **Вкладка «Управление»:** все здания и полки в одной таблице; управляющие сразу на много зданий, набор настроек копируется на другие, автопилот управляющих (цены по покупателям, источники, сбыт, консервация убыточных линий).
+- **Телефон стал смартфоном:** приложения на главном экране (Tab), торговля на сумму, входящие предложения, дочерние компании.
+- **Начало лучше:** магазин у дома окупается быстрее, магазин продаёт сверх обычного оборота с очередями и переработками (и не одну и ту же сумму каждый месяц), карточки-возможности в первые годы, пять «Первых шагов» с наградами, а через год в плюсе банк даёт кредит на второй магазин.
+- **Поздняя игра:** биржа оценивает компанию в 15 лет её прибыли, дочки отдают всю прибыль и строят заводы в стране, куда вы их пошлёте, здания в состоянии — по тому, сколько зарабатывают.
+- **Влияние и меценатство:** спонсировать группу влияния, оплатить школы, больницы или дороги страны, построить музей, больницу, университет или фонд вашего имени, скупить целую отрасль одной офертой (берегитесь антимонопольщиков).
+- **Как в реальном мире:** в каждой отрасли остаются частники и малый бизнес (компании больше не скупают всё), налоги на инвестиции (13% с личных дивидендов и прибыли от продажи; корпорация платит с прибыли от продажи и с дивидендов мелких пакетов), магазин обслуживает свой квартал, а не весь город.
+- Исправления по трём машинным плейтестам: налог на прибыль по месяцу и после зарплаты управляющих, честный прогноз товаров, безопасная вставка набора, никаких детей во главе стран, вклады от 2%, много чисел в окнах.
+- Сохранения прошлых версий загружаются; в старом мире биржа за несколько месяцев переоценивает компании.
+
 ## Beta 0.9.2 — 29.09.2026 · Бета 0.9.2
 **The game is in English.** The whole interface, the tutorial, 132 story events, 533 goods, the lore of 17 countries, laws and names. Settings → Language switches between English and Russian at once; the first start follows the language of Windows. Saves from earlier versions load in either language. Also on [itch.io](https://linlovedead.itch.io/trade-world).
 
