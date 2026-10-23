@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trade World — patch 0.11</title>
+<style>
+  body { background: #0a0c10; color: #cbd5e1; font: 16px/1.6 "Segoe UI", system-ui, sans-serif; max-width: 780px; margin: 0 auto; padding: 24px 16px 60px; }
+  a { color: #00d2ff; } h1, h2 { color: #f0f4fc; } b { color: #f0f4fc; }
+  img { max-width: 100%; height: auto; border-radius: 8px; margin: 4px 0; display: block; }
+  ul { list-style: none; padding-left: 4px; margin: 6px 0 22px; } li { margin: 3px 0; }
+  nav { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 18px; }
+  nav a, .btn { background: #181d28; color: #e6edf7; padding: 7px 14px; border-radius: 8px; text-decoration: none; font-size: 15px; }
+  nav a.dl, .btn.dl { background: #00a8d6; color: #06121a; font-weight: 600; }
+  .muted { color: #74839d; font-size: 14px; }
+</style>
+</head>
+<body>
+<nav><a class="dl" href="https://github.com/linlovedead/TradeWorld/releases/latest/download/TradeWorld.zip">Download</a><a href="https://linlovedead.itch.io/trade-world">itch.io</a><a href="../">Trade World</a><a href="0.11-ru.html">Русский</a></nav>
+<p><img src="img/en_title.png" alt="Patch 0.11 — The Earth of 2000"></p>
+
+<p>The most common feedback on beta 0.10 was: “if the game were on a real world map, I would buy it.” We turned the whole
+project around. Update 0.11 is out now.</p>
+
+<p><img src="img/en_hdr_new.png" alt="New"></p>
+<ul>
+  <li>✚ <b>The Earth of 2000</b> instead of the fictional world</li>
+  <li>✚ <b>Magnates</b> — the world's 300 richest people play by your rules</li>
+  <li>✚ <b>An atlas map</b> that rolls into a globe</li>
+  <li>✚ <b>Warehouses with a flow scheme</b> of every good</li>
+  <li>✚ <b>A new interface</b> and a glossary on hover</li>
+</ul>
+
+<p><img src="img/en_hdr_earth.png" alt="The Earth of 2000"></p>
+<ul>
+  <li>✚ Real countries, regions and cities with their populations and economies as of 1 January 2000</li>
+  <li>▲ Living countries: <b>17 → 150+</b> — all of Europe, both Americas, Asia, Africa, Oceania</li>
+  <li>✚ A real scale: people and markets as in 2000, your first plant is a drop in the ocean</li>
+  <li>✚ Poor but calm countries catch up with the rich: China and India get <b>twice as rich</b> in 25 years; a country at war or in turmoil stands still</li>
+  <li>✚ Blocs and alliances: the EU, NATO, the CIS, ASEAN, MERCOSUR, the CSTO, the GCC</li>
+  <li>✚ Distances and days on the road follow the globe; seasons in the southern hemisphere are half a year apart</li>
+  <li>✚ A city apart from its countryside: “city 1.1 M, with its area 7.3 M”</li>
+</ul>
+<p><img src="img/en_map_globe.png" alt="The globe"></p>
+
+<p><img src="img/en_hdr_map.png" alt="The map"></p>
+<ul>
+  <li>✚ An atlas in the spirit of Victoria 3: muted country colours, relief showing through, water by depth, groves</li>
+  <li>✚ From afar — an old paper map, zoomed out further — a globe</li>
+  <li>✚ Country names curve along their shapes; small countries in the same style</li>
+  <li>▼ Letters jumping in names while the camera moves: <b>6–13 → 0</b></li>
+  <li>✖ The map has no edge anymore: the Pacific runs right through</li>
+  <li>▲ The projection follows the zoom: true proportions from afar, shapes without stretching up close</li>
+  <li>▲ A close-up frame of the map: <b>23 → 7 ms</b></li>
+</ul>
+<p><img src="img/en_map_atlas.png" alt="The atlas"></p>
+
+<p><img src="img/en_hdr_magnates.png" alt="Magnates"></p>
+<ul>
+  <li>✚ The world's 300 richest people buy stakes, build blocking stakes, take control of companies and merge rivals</li>
+  <li>✚ They go into power your way: a sphere of influence, dues, governor, minister, successor</li>
+  <li>✚ They outbid your offers (with a loan against their stake) and back the raiders that come for your corporation</li>
+  <li>✚ They build plants against your goods once you hold a noticeable share of a market</li>
+  <li>▲ Company mergers in 20 years: <b>0 → 6–14</b></li>
+  <li>▲ Monopolists with a company of their own: <b>1–2 → 7–13</b></li>
+  <li>✚ The <b>Rivals</b> tab of the Goals window: who stands in your way and their last move</li>
+</ul>
+<p><img src="img/en_rivals.png" alt="Rivals"></p>
+
+<p><img src="img/en_hdr_economy.png" alt="Economy"></p>
+<ul>
+  <li>▼ The world's richest person after 20 years: <b>5–7 trillion → ~0.5 trillion</b></li>
+  <li>▼ The 100th richest after 20 years: <b>45 → 31 billion</b></li>
+  <li>▼ Countries where the richest person owns more than 30% of the yearly output: <b>16–17 → 2</b></li>
+  <li>⟳ A global firm sells abroad at most <b>8</b> of its home markets — Botswana no longer grows trillionaires</li>
+  <li>⟳ Companies pay their overheads: <b>half</b> of their plants' profit</li>
+  <li>⟳ Founders of giants keep about 10%, startups sell 40% at the IPO, big families sell down over the years</li>
+  <li>⟳ The world's people pay 13% on dividends and spend part of their wealth</li>
+  <li>⟳ A company takes over only a business it can run</li>
+</ul>
+
+<p><img src="img/en_hdr_warehouses.png" alt="Warehouses"></p>
+<ul>
+  <li>✚ Export to several countries at once</li>
+  <li>✚ Any good opens as a flow scheme: from → warehouses → to; the thicker the arrow, the more units</li>
+  <li>✚ The market and every export country <b>in percent or in units</b> a month</li>
+  <li>✚ One plant's output split between warehouses (say <b>60/40</b>)</li>
+  <li>✚ The production chain with the cost of every step, and “in / out / profit”</li>
+  <li>✚ Quick actions: <b>cut the good</b>, <b>boost production</b>, <b>add sales</b></li>
+</ul>
+<p><img src="img/en_warehouse.png" alt="Warehouse flows"></p>
+
+<p><img src="img/en_hdr_business.png" alt="Your business"></p>
+<ul>
+  <li>✚ Rivals of your size: people open their own shops and grow — “Petrov” → “Petrov &amp; Sons” → “Petrov Market”</li>
+  <li>✚ Spin any part of your business — shops, plants, media, warehouses — off into a <b>subsidiary</b> with a director you pick from three</li>
+  <li>⟳ Retail chains earn from their shops in the cities, not from the whole country's market</li>
+  <li>⟳ Company names fit the real countries</li>
+</ul>
+
+<p><img src="img/en_hdr_ui.png" alt="Interface"></p>
+<ul>
+  <li>✚ Dark glass, icons, summary cards — the main thing at a glance; tables stay for fine control</li>
+  <li>✚ <b>A glossary on hover:</b> point at a word or a number and the game tells you what it means</li>
+  <li>⟳ All windows follow one set of rules: cards, spacing, four type sizes, iOS-like sliders</li>
+  <li>⟳ A clearer first hour: labelled money, “—” instead of first-month zeros, an honest end of the tutorial chapter</li>
+</ul>
+<p><img src="img/en_window.png" alt="A game window"></p>
+
+<p><img src="img/en_hdr_fixes.png" alt="Bug fixes"></p>
+<ul>
+  <li>✖ Every new game made the same world</li>
+  <li>✖ A bank swallowing banks of other countries grew to 7.8 trillion</li>
+  <li>✖ A new retail chain with one shop earned billions</li>
+  <li>✖ A subsidiary of three shops got a 200 million margin from the tender board</li>
+  <li>✖ A crash after the family's month</li>
+  <li>✖ A tear in the globe at the pole and a band over the Pacific</li>
+  <li>✖ Dark crater-like spots on the lakes of Tibet</li>
+</ul>
+
+<p><img src="img/en_hdr_saves.png" alt="Important: saves"></p>
+<ul>
+  <li>⚠ Saves of beta 0.10 were made in the fictional world and <b>do not load</b> in 0.11 — the game tells you so plainly</li>
+  <li>✔ Saves of 0.11 will keep loading in the next versions</li>
+</ul>
+
+<p>Tell us what you think in the comments. Found a bug? In the game, <b>Game → Report a bug</b> packs your save and the log into one archive.</p>
+</body>
+</html>
