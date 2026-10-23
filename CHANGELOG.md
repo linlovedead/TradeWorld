@@ -1,5 +1,28 @@
 # Что нового / What's new
 
+## Beta 0.11 — 24.10.2026 · Бета 0.11
+**The real Earth of 2000, magnates who play by your rules, warehouses you can feel, and a new look.**
+
+- **The Earth of 2000:** real countries, regions and cities with their populations and economies as of 1 January 2000. Over 150 countries live — all of Europe, both Americas, Asia, Africa and Oceania. The scale is real: your first plant is a drop in the ocean. Poor but calm countries catch up with the rich; countries at war or in turmoil stand still.
+- **A map like an atlas:** muted country colours, relief showing through, country names along their shapes that stay put while you move. From afar it becomes a paper map, zoomed out further it rolls into a globe with no edge at the dateline.
+- **Magnates:** the world's 300 richest people play by your rules — they buy stakes, take control of companies, merge rivals, go into politics, outbid your offers, back raiders against your corporation and build plants against your goods. The Rivals tab of the Goals window shows who stands in your way.
+- **Warehouses:** ship to several countries at once; any good opens as a flow scheme (from → warehouses → to, arrows as thick as the units) with the production chain and its cost per step; the market and every export country by percent or in units a month; one plant's output split between warehouses (say 60/40); quick actions to cut a good, boost production or add sales.
+- **Rivals of your size:** people open their own shops and grow them into chains; spin any part of your business off into a subsidiary with a director you pick.
+- **A new interface:** dark glass, icons and cards that show the main thing at a glance; tables stay for fine control. Hover over a word or a number to see what it means.
+- **Fortunes on a real scale:** founders sell down over the years, companies pay their overheads, a small country's global firm no longer outgrows the world.
+- **Saves:** saves of 0.10 were made in the old fictional world and do not load in 0.11 (the game says so). Saves made in 0.11 will keep loading in the next versions.
+
+**Реальная Земля 2000 года, магнаты по вашим правилам, ощутимые склады и новый вид.**
+
+- **Земля 2000 года:** настоящие страны, области и города с населением и экономикой на 1 января 2000 года. Живут больше 150 стран — вся Европа, обе Америки, Азия, Африка и Океания. Масштаб реальный: ваш первый завод — капля в океане. Бедные спокойные страны догоняют богатых, страны в войне или смуте стоят на месте.
+- **Карта как атлас:** приглушённые цвета стран, рельеф сквозь заливку, названия стран по их форме, которые не дёргаются при движении камеры. Издали карта становится бумажной, при отдалении сворачивается в глобус без края на линии перемены дат.
+- **Магнаты:** 300 богатейших людей мира играют по вашим правилам — скупают доли, берут компании под контроль, сливают соперников, идут во власть, перебивают ваши оферты, стоят за рейдерами вашей корпорации и строят заводы против ваших товаров. Кто вам мешает — во вкладке «Соперники» окна «Цели».
+- **Склады:** экспорт сразу в несколько стран; любой товар открывается схемой потоков (откуда → склады → куда, толщина стрелки — единицы) с цепочкой производства и ценой каждого шага; рынок и каждая страна экспорта — в процентах или в штуках в месяц; выпуск одного завода делится между складами (например 60/40); быстрые действия: убавить товар, усилить производство, пополнить продажи.
+- **Соперники вашего размера:** люди открывают свои магазины и растят их в сети; любую часть бизнеса можно выделить в дочернюю компанию с директором, которого выберете вы.
+- **Новый интерфейс:** тёмное стекло, иконки и карточки, где главное видно с одного взгляда; таблицы остались для точной настройки. Наведите на слово или число — игра объяснит, что оно значит.
+- **Состояния в реальном масштабе:** основатели со временем продают доли, компании платят накладные, глобальная фирма маленькой страны больше не перерастает мир.
+- **Сохранения:** сохранения 0.10 сделаны в старом выдуманном мире и в 0.11 не загружаются (игра скажет об этом). Сохранения 0.11 будут грузиться и в следующих версиях.
+
 ## Beta 0.10 — 01.10.2026 · Бета 0.10
 **Managers run your empire, the late game pays for business, and the world works more like the real one.**
 

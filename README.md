@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/linlovedead/TradeWorld/releases/latest/download/TradeWorld.zip"><img src="https://img.shields.io/badge/Download%20%2F%20%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-Windows%2064--bit-5c7e10?style=for-the-badge" alt="Download"></a>
   <a href="https://linlovedead.itch.io/trade-world"><img src="https://img.shields.io/badge/itch.io-Trade%20World-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"></a>
-  <br><sub>Free beta · English and Russian · zip ~85 MB · <a href="https://github.com/linlovedead/TradeWorld/releases">all versions</a> · <a href="CHANGELOG.md">what's new</a></sub>
+  <br><sub>Free beta · English and Russian · zip ~96 MB · <a href="https://github.com/linlovedead/TradeWorld/releases">all versions</a> · <a href="CHANGELOG.md">what's new</a></sub>
 </p>
 
 **[English](#english) · [Русский](#русский)**
@@ -16,13 +16,13 @@
 
 ## English
 
-Seventeen fictional countries live on their own: they grow their economies, change rulers, go to war, get rich and go broke. You start as one person with a little money — and decide who to become: a monopolist, the richest person in the world, the head of a dynasty, or the ruler of a country.
+The real Earth of 2000 lives on its own: over 150 countries grow their economies, change rulers, go to war, get rich and go broke. You start as one person with a little money — and decide who to become: a monopolist, the richest person in the world, the head of a dynasty, or the ruler of a country. The world's 300 richest people play by the same rules and stand in your way.
 
 Money turns into influence, and influence turns into laws. You build shops, plants and warehouses, link them into supply chains and take your corporation public. The world does not wait for you: companies swallow each other, governors steal the development money, neighbours fight over disputed land — and all of it hits your profit.
 
 ### What you can do
 
-- **Build** — factories with several production lines, farms, mines, warehouses, 25 kinds of shops, offices, R&D centers, media and your own bank. 533 goods in production chains.
+- **Build** — factories with several production lines, farms, mines, warehouses that ship anywhere in the world, 25 kinds of shops, offices, R&D centers, media and your own bank. 533 goods in production chains.
 - **Trade** — your own prices at home and for export, state orders, price wars with retail chains; every good has its buyer: some pay for the brand, some for the price.
 - **Grow** — headquarters and directors, an IPO, shares, raiders and the defence against them.
 - **Rule** — spheres of influence, posts of governor and minister, elections and coups; the head of state decides where the treasury goes.
@@ -56,13 +56,13 @@ In the game: **Game → Report a bug** — it packs your save and the log into o
 
 ## Русский
 
-Семнадцать вымышленных стран живут сами: строят экономику, меняют правителей, воюют, богатеют и беднеют. Вы начинаете одним человеком с небольшими деньгами — и решаете, кем стать: монополистом, богатейшим человеком мира, главой династии или правителем страны.
+Реальная Земля 2000 года живёт сама: больше 150 стран строят экономику, меняют правителей, воюют, богатеют и беднеют. Вы начинаете одним человеком с небольшими деньгами — и решаете, кем стать: монополистом, богатейшим человеком мира, главой династии или правителем страны. Триста богатейших людей мира играют по тем же правилам и стоят у вас на пути.
 
 Деньги становятся влиянием, влияние становится законами. Вы строите магазины, заводы и склады, собираете цепочки поставок, выводите корпорацию на биржу. Мир при этом живёт без вас: компании поглощают друг друга, губернаторы воруют деньги на развитие, соседи воюют из-за спорной земли — и всё это сразу бьёт по вашей прибыли.
 
 ### Что вы можете
 
-- **Строить** — фабрики с несколькими линиями, фермы, шахты, склады, 25 видов магазинов, офисы, НИИ, СМИ и свой банк. 533 товара в цепочках.
+- **Строить** — фабрики с несколькими линиями, фермы, шахты, склады с экспортом по всему миру, 25 видов магазинов, офисы, НИИ, СМИ и свой банк. 533 товара в цепочках.
 - **Торговать** — свои цены дома и на экспорт, госзаказ, ценовые войны с торговыми сетями; у каждого товара свой покупатель: кому бренд, кому цена.
 - **Расти** — штаб-квартира и директора, IPO, акции, рейдеры и защита от них.
 - **Властвовать** — сферы влияния, посты губернатора и министра, выборы и перевороты; глава страны решает, куда идёт казна.
