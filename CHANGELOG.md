@@ -1,5 +1,24 @@
 # Что нового / What's new
 
+## Beta 0.12 — 24.10.2026 · Бета 0.12
+**People have faces again — painted portraits, more different people, and characters in full height.**
+
+- **The back-of-the-head bug is gone:** in 0.11, zoomed out, the map cut the faces off and every portrait showed the back of the head. Sorry about that.
+- **Painted portraits:** a painter's light, brush strokes and a backdrop behind the head instead of plastic 3D.
+- **More different people:** 107 facial features instead of 41 (nose, lips, eyelids, ears, chin, a touch of asymmetry); age shows in the face — wrinkles, folds, jowls; skin with stubble, freckles, moles, blush and make-up.
+- **Hair and clothes:** 40 hairstyles instead of 10, women's business suits and blouses, new men's suits, casual wear for children.
+- **Characters in full height:** in the Character window, on a person's card and in the face editor.
+- **Saves:** saves of 0.11 load in 0.12. People you know will look different: the generator is the same, but the choice of features, hairstyles and clothes is wider.
+
+**У людей снова есть лица — рисованные портреты, люди разнее, персонаж в полный рост.**
+
+- **Больше никаких затылков:** в 0.11 при отдалённой карте портреты срезались, и вместо лица был виден затылок. Простите.
+- **Рисованные портреты:** свет как у художника, мазки и фон за головой вместо пластикового 3D.
+- **Люди разнее:** 107 черт лица вместо 41 (нос, губы, веки, уши, подбородок, лёгкая асимметрия); возраст виден на лице — морщины, складки, брыли; на коже щетина, веснушки, родинки, румянец и макияж.
+- **Причёски и одежда:** 40 причёсок вместо 10, женские деловые костюмы и блузки, новые мужские костюмы, повседневная одежда для детей.
+- **Персонаж в полный рост:** в окне «Персонаж», в карточке человека и в редакторе лиц.
+- **Сохранения:** сохранения 0.11 грузятся в 0.12. Знакомые люди будут выглядеть иначе: генератор тот же, но выбор черт, причёсок и одежды шире.
+
 ## Beta 0.11 — 24.10.2026 · Бета 0.11
 **The real Earth of 2000, magnates who play by your rules, warehouses you can feel, and a new look.**
 
