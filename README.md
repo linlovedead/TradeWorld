@@ -52,6 +52,10 @@ Windows may warn about an unknown publisher: “More info → Run anyway”. Sav
 
 In the game: **Game → Report a bug** — it packs your save and the log into one archive. Attach it to a [new issue](https://github.com/linlovedead/TradeWorld/issues) or a comment on [itch.io](https://linlovedead.itch.io/trade-world).
 
+### Thanks
+
+Big Thanks, Respect & Love: **altushka** and **ulya** — for the early food grants that kept the developer going.
+
 ---
 
 ## Русский
@@ -91,3 +95,7 @@ Windows может предупредить о неизвестном издат
 ### Нашли ошибку?
 
 В игре: **«Игра → Сообщить об ошибке»** — соберётся архив с сохранением и журналом. Приложите его к [новому issue](https://github.com/linlovedead/TradeWorld/issues) или к комментарию на [itch.io](https://linlovedead.itch.io/trade-world).
+
+### Благодарности
+
+Большое спасибо, респект и любовь: **altushka** и **ulya** — за поддержку едой в нужный момент, благодаря которой разработчик продолжал делать игру.
