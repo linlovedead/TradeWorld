@@ -1,5 +1,28 @@
 # Что нового / What's new
 
+## Beta 0.13 — 25.10.2026 · Бета 0.13
+**The first 15 minutes made clear, a weekly rhythm, and a quick city menu.**
+
+- **An honest first month:** goods the shop stocked ahead and still has on its shelves are not a loss ("Goods on the shelves" in the finances); the first month closes in the black when it really is, on every screen.
+- **Play means play:** the ▶ button and space resume at the last speed you picked (a day a second at first), not an hour a second.
+- **A near goal:** the first steps ("100 thousand of profit in a year", "a second building", "a million in the cash") in your card and at the end of the first chapter; the tutorial offers a plant when you can afford it and a shop upgrade before that; a disabled upgrade says how much is missing.
+- **One piece of advice:** the tutorial and the advisor no longer argue about the markup.
+- **Less noise:** the tensions of 2000 are not news; a regime change, a demand, an ultimatum or a war between faraway countries no longer pauses the game.
+- **A weekly rhythm:** every building's profit by week (a "by week / by month" switch in its finances, a real week for "/wk" in the top bar); harvests, war rumors, sanctions and revolutions come on different days of the month; a retail chain answers your shop within a week.
+- **A quick city menu:** a click on the map opens the city — build here, your buildings there with their troubles, the market, the province, the country, the government.
+- **Saves:** saves of 0.12 load in 0.13.
+
+**Первые 15 минут стали понятны, недельный ритм и быстрое меню города.**
+
+- **Честный первый месяц:** товар, закупленный впрок и лежащий на полках, — не убыток («Товар на полках» в финансах); первый месяц закрывается в плюсе там, где он и правда в плюсе, на всех экранах.
+- **Пуск — это пуск:** кнопка ▶ и пробел продолжают на последней выбранной скорости (сначала «день в секунду»), а не «час в секунду».
+- **Ближняя цель:** первые шаги («100 тысяч прибыли за год», «второе здание», «миллион в кассе») в карточке «Я» и на конце первой главы; завод обучение предлагает, когда он по карману, а до этого — улучшить магазин; у недоступного улучшения написано, сколько не хватает.
+- **Один совет:** обучение и советник больше не спорят о наценке.
+- **Меньше шума:** напряжённость 2000 года — не новость; смена власти, требование, ультиматум или война между далёкими странами не ставят игру на паузу.
+- **Недельный ритм:** прибыль каждого здания по неделям (переключатель «по неделям / по месяцам» в финансах, настоящая неделя в «/нед» наверху); неурожаи, слухи о войне, санкции и революции приходят в разные дни месяца; сеть отвечает на ваш магазин за неделю.
+- **Быстрое меню города:** клик по карте открывает город — построить здесь, ваши здания в нём с их бедами, рынок, провинция, страна, власть.
+- **Сохранения:** сохранения 0.12 грузятся в 0.13.
+
 ## Beta 0.12 — 24.10.2026 · Бета 0.12
 **People have faces again — painted portraits, more different people, and characters in full height.**
 
