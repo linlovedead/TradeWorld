@@ -1,5 +1,30 @@
 # Что нового / What's new
 
+## Beta 0.14 — 26.10.2026 · Бета 0.14
+**From a shop to a plant of your own: a mini workshop, a construction loan, and a markup for every good.**
+
+- **A mini workshop:** a new step between the shop and the small factory — one line, a quarter of a factory, about a shop's price with the land.
+- **A construction loan:** after half a year in the black the bank lends up to 75% of a plant, farm or mine against the building itself, 10 years, interest only for the first six months; "Build on credit" in the build window.
+- **The ladder:** the tutorial and the advisor lead shop → mini workshop → factory and say when the bank is ready to lend; a construction loan leaves room below the bank's limit, and the advisor warns when the debt comes close to it.
+- **"No inputs":** goods whose inputs the country's market does not sell are marked red in a new plant's list and go to the bottom.
+- **A markup for every good:** the "To shelf" list finds the markup that earns each shelf the most (who in the city buys the good, how much they care about the price) and sets it; the profit in the list is after tax.
+- **What an upgrade brings:** "+N a month, pays back in about M months" under the "Upgrade" button and at the end of the first chapter.
+- **A fair wage for a manager:** paid by the building's real size (about 16 thousand a month in a corner shop, not 31 of its 45 thousand).
+- **Fixes:** loan lines in "Finances and loans" wrap; the English chapter button no longer gets cut off; the magnates' news is in English.
+- **Saves:** saves of 0.13 load in 0.14.
+
+**От магазина к своему заводу: мини-цех, кредит на стройку и своя наценка у каждого товара.**
+
+- **Мини-цех:** новая ступень между магазином и малой фабрикой — одна линия, четверть фабрики, с землёй стоит примерно как магазин.
+- **Кредит на стройку:** после полугода в плюсе банк даёт до 75% цены завода, фермы или шахты под залог самого здания, на 10 лет, первые полгода только проценты; «Построить в кредит» в окне стройки.
+- **Лестница:** обучение и советник ведут магазин → мини-цех → фабрика и говорят, когда банк даст денег; кредит на стройку оставляет запас до лимита банка, советник предупреждает, когда долг у лимита.
+- **«Нет сырья»:** товары, сырьё для которых в стране не продаётся, в списке нового завода помечены красным и стоят внизу.
+- **Своя наценка у каждого товара:** список «На полку» находит наценку, при которой полка приносит больше всего (кто в городе берёт товар и насколько ему важна цена), и ставит её; прибыль в списке — после налога.
+- **Сколько даст улучшение:** «+N в месяц, окупится за M мес.» под кнопкой «Улучшить» и в конце первой главы.
+- **Честная зарплата управляющего:** по настоящему размеру здания (в магазине у дома около 16 тысяч в месяц, а не 31 из 45 тысяч).
+- **Исправления:** строки кредитов в «Финансы и кредиты» переносятся; английская кнопка главы не обрезается; новости магнатов на английском.
+- **Сохранения:** сохранения 0.13 грузятся в 0.14.
+
 ## Beta 0.13 — 25.10.2026 · Бета 0.13
 **The first 15 minutes made clear, a weekly rhythm, and a quick city menu.**
 
