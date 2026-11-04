@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trade World — patch 0.15</title>
+<style>
+  body { background: #0a0c10; color: #cbd5e1; font: 16px/1.6 "Segoe UI", system-ui, sans-serif; max-width: 780px; margin: 0 auto; padding: 24px 16px 60px; }
+  a { color: #00d2ff; } h1, h2 { color: #f0f4fc; } b { color: #f0f4fc; }
+  img { max-width: 100%; height: auto; border-radius: 8px; margin: 4px 0; display: block; }
+  ul { list-style: none; padding-left: 4px; margin: 6px 0 22px; } li { margin: 3px 0; }
+  nav { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 18px; }
+  nav a, .btn { background: #181d28; color: #e6edf7; padding: 7px 14px; border-radius: 8px; text-decoration: none; font-size: 15px; }
+  nav a.dl, .btn.dl { background: #00a8d6; color: #06121a; font-weight: 600; }
+  .muted { color: #74839d; font-size: 14px; }
+</style>
+</head>
+<body>
+<nav><a class="dl" href="https://github.com/linlovedead/TradeWorld/releases/latest/download/TradeWorld.zip">Download</a><a href="https://linlovedead.itch.io/trade-world">itch.io</a><a href="../">Trade World</a><a href="0.15-ru.html">Русский</a></nav>
+<p>A player on itch made it to billionaire and wrote down in detail what got in the way. This patch is their list,
+point by point. Thank you: a review like that is worth a week of playtests. And while the patch was being built, two more
+players wrote in — their finds are here too.</p>
+
+<h2>The owner's money</h2>
+<ul>
+  <li>✚ <b>"To yourself each month".</b> A slider in the Corporation window: a share of the month's profit goes to your
+  wallet by itself, legally — only out of what the firm earned, never out of loans, and not while it is in debt. A
+  billionaire no longer carries millions to their own wallet by hand.</li>
+  <li>✚ The CEO salary cap grows with the corporation, and the advisor speaks up when your wallet is empty and your firm is rich.</li>
+</ul>
+
+<h2>Plants, warehouses, contracts</h2>
+<ul>
+  <li>✚ <b>Parts from your own line.</b> When one line of a plant makes a part for another, the second takes it inside,
+  even if it used to take it from a warehouse, and a manager on autopilot no longer sends it to the national market.</li>
+  <li>✚ <b>What a warehouse is for, in one number.</b> The warehouse card shows "Gain a month": what your shops and plants
+  saved against buying at the market, less the upkeep. The advisor suggests a warehouse only when importing really is cheaper.</li>
+  <li>✚ <b>Contracts without nagging windows.</b> The offer window shows only the first two times, then the feed and the
+  phone. And a toggle "Sign profitable contracts automatically": a contract at least a tenth over the unit cost is signed at once.</li>
+</ul>
+
+<h2>Family and character</h2>
+<ul>
+  <li>✚ <b>Name your children.</b> When a child is born, the game pauses and shows a window with both parents: what will you name the child? You can rename later too.</li>
+  <li>✚ <b>Your own character.</b> At the start you choose the childhood and adult life, the age and the traits.</li>
+  <li>✚ <b>How the family works.</b> Hover the spouse, children, kin, dynasty: a short note on how it works.</li>
+</ul>
+<img src="img/05_en_birth.png" alt="The birth window">
+
+<h2>People behind the numbers</h2>
+<ul>
+  <li>✚ <b>Five qualities instead of a dozen:</b> Management, Intellect, Charisma, Influence, Intrigue, and Fame apart.
+  Skills became perks in branches; perk points come from a year of study and from experience.</li>
+  <li>✚ <b>Intrigue:</b> dig up dirt and keep someone on the hook, provoke, steal blueprints. A failure may give you away,
+  and the target remembers. Those who hate you plot back.</li>
+  <li>✚ <b>Intellect:</b> projects on a building — "Improve quality" and "Cut costs" — and "Check the rumours": a true tip
+  on a share the exchange undervalues, or someone's secret.</li>
+</ul>
+
+<h2>Warehouses and imports — from your letters</h2>
+<ul>
+  <li>✚ <b>Why a warehouse "does not work".</b> When a plant takes a good from a warehouse that does not hold it, the
+  supply tab says so — and what lies there instead: "the warehouse has no copper, it holds copper ore, a copper smelter
+  has to process it first".</li>
+  <li>✚ <b>Imports in one click.</b> An input your country's market does not sell (lithium, cobalt…): the supply tab names
+  the cheapest country, and "import via warehouse" sets up your warehouse by itself. If war or sanctions close every
+  route, it says that too.</li>
+</ul>
+<img src="img/05_en_import.png" alt="Import via warehouse in one click">
+
+<h2>Production</h2>
+<ul>
+  <li>✚ <b>Parts balance.</b> A plant making parts for itself? A bar for each part shows who eats it and how much:
+  smartphones, displays, laptops — and in red what is missing. No more adding it up in your head.</li>
+  <li>✚ <b>"Fit the shares"</b> sets the part lines to exactly what your lines take, and tells first what it changes a month.</li>
+  <li>✚ <b>A neighbour line's shortfall is bought on the market.</b> When a part line can't keep up, the rest is bought instead of standing.</li>
+  <li>✚ <b>New machines.</b> Every line can be upgraded on its own, 5 stages of +15% capacity; installing takes a month.</li>
+</ul>
+<img src="img/05_en_balance.png" alt="Line machines and the parts balance">
+
+<h2>The overview on the right</h2>
+<ul>
+  <li>✚ The arrow in the top right corner (or the O key) opens the overview: your buildings with their profit and problems,
+  what is under way (upgrades, tasks, study), who plots against you, which contracts end soon. A click takes you there.</li>
+</ul>
+<img src="img/05_en_outliner.png" alt="The overview on the right">
+
+<h2>Progression</h2>
+<ul>
+  <li>✚ <b>The "Progression" tab</b> in the character window: a card for each quality, its two branches, three tiers a perk.</li>
+  <li>✚ <b>Qualities grow from their own deeds:</b> Management from the buildings you run, Intellect from labs and projects,
+  Charisma from shops, brands and deals, Influence from posts, groups and lobbying, Intrigue from tasks.</li>
+  <li>✚ Qualities do what they say: Management gives more buildings under personal management, Influence softens the
+  prosecutor, Intellect speeds up your labs. The Marketer, Charisma and Management now really bring buyers to a shop.</li>
+  <li>✚ Balance: a shop manager costs less and raises its turnover; the Agronomist and the Mining engineer are half as
+  strong; only technology from your own labs can be sold to the world — projects and stolen blueprints stay your plants' know-how.</li>
+</ul>
+
+<p>Saves of 0.14 load in 0.15.</p>
+</body>
+</html>

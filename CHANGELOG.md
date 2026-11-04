@@ -1,5 +1,32 @@
 # Что нового / What's new
 
+## Beta 0.15 — 04.11.2026 · Бета 0.15
+**Your reviews, point by point: the owner's money, parts that add up, imports in one click, new machines, an overview on the right, and people behind the numbers.**
+
+- **The owner's money:** "To yourself each month" — a share of the month's profit goes to your wallet by itself, legally; the CEO salary cap grows with the corporation.
+- **Contracts:** the offer window only the first two times; "Sign profitable contracts automatically".
+- **Warehouses and imports:** the supply tab says when a warehouse lacks a good and what lies there instead (copper ore is not copper); an input your country does not sell is imported through your warehouse in one click; "Gain a month" on a warehouse card.
+- **Parts balance:** a bar for each part a plant makes for itself shows who eats it and how much, and what is missing; "Fit the shares" says first what it changes a month; a neighbour line's shortfall is bought on the market.
+- **New machines:** every line can be upgraded on its own, 5 stages of +15% capacity.
+- **The overview on the right:** your buildings with profit and problems, what is under way, who plots against you, contracts ending soon (the arrow in the top right corner or O).
+- **People behind the numbers:** five qualities (Management, Intellect, Charisma, Influence, Intrigue) and Fame; perks in branches on the "Progression" tab; qualities grow from their own deeds; Intrigue tasks (dirt, provoking, blueprints) and Intellect projects (quality, costs, rumours).
+- **Family:** your own character at the start (backstories, age, traits); a birth pauses the game and asks the child's name; how the family works on hover.
+- **Balance and fixes:** no money machines in technology, rumours or blueprints; the Marketer and Charisma really bring buyers; a shop manager is cheaper and raises turnover; the Agronomist and the Mining engineer halved.
+- **Saves:** saves of 0.14 load in 0.15.
+
+**Ваши отзывы пункт за пунктом: деньги владельца, детали, которые сходятся, ввоз в один клик, новые станки, обзор справа и люди за цифрами.**
+
+- **Деньги владельца:** «Себе каждый месяц» — доля прибыли месяца сама уходит в кошелёк, законно; потолок зарплаты гендиректора растёт с корпорацией.
+- **Контракты:** окно с предложением только первые два раза; «Подписывать выгодные самому».
+- **Склады и ввоз:** окно закупок говорит, когда на складе нет товара и что лежит вместо него (медная руда — не медь); сырьё, которого нет дома, ввозится через свой склад одной кнопкой; «Выгода в месяц» в карточке склада.
+- **Баланс деталей:** полоса на каждую деталь, которую завод делает себе, — кто её ест и сколько, и чего не хватает; «Подогнать доли» заранее показывает, что это даст в месяц; нехватка с соседней линии докупается на рынке.
+- **Новые станки:** каждую линию можно улучшать отдельно, 5 этапов по +15% мощности.
+- **Обзор справа:** ваши здания с прибылью и проблемами, что идёт сейчас, кто под вас копает, какие контракты скоро кончатся (стрелочка в правом верхнем углу или O).
+- **Люди за цифрами:** пять качеств (Управление, Интеллект, Харизма, Влияние, Интриги) и Известность; перки в ветках на вкладке «Прокачка»; качества растут от своих дел; задания Интриг (компромат, провокация, чертежи) и проекты Интеллекта (качество, расходы, слухи).
+- **Семья:** свой персонаж на старте (предыстории, возраст, черты); при рождении ребёнка игра встаёт на паузу и спрашивает имя; как устроена семья — по наведению.
+- **Баланс и исправления:** никаких денежных станков на технологиях, слухах и чертежах; Маркетолог и Харизма правда приводят покупателей; управляющий магазина дешевле и поднимает оборот; Агроном и Горный инженер вдвое скромнее.
+- **Сохранения:** сохранения 0.14 грузятся в 0.15.
+
 ## Beta 0.14 — 26.10.2026 · Бета 0.14
 **From a shop to a plant of your own: a mini workshop, a construction loan, and a markup for every good.**
 
