@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trade World — patch 0.15.1</title>
+<style>
+  body { background: #0a0c10; color: #cbd5e1; font: 16px/1.6 "Segoe UI", system-ui, sans-serif; max-width: 780px; margin: 0 auto; padding: 24px 16px 60px; }
+  a { color: #00d2ff; } h1, h2 { color: #f0f4fc; } b { color: #f0f4fc; }
+  img { max-width: 100%; height: auto; border-radius: 8px; margin: 4px 0; display: block; }
+  ul { list-style: none; padding-left: 4px; margin: 6px 0 22px; } li { margin: 3px 0; }
+  nav { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 18px; }
+  nav a, .btn { background: #181d28; color: #e6edf7; padding: 7px 14px; border-radius: 8px; text-decoration: none; font-size: 15px; }
+  nav a.dl, .btn.dl { background: #00a8d6; color: #06121a; font-weight: 600; }
+  .muted { color: #74839d; font-size: 14px; }
+</style>
+</head>
+<body>
+<nav><a class="dl" href="https://github.com/linlovedead/TradeWorld/releases/latest/download/TradeWorld.zip">Download</a><a href="https://linlovedead.itch.io/trade-world">itch.io</a><a href="../">Trade World</a><a href="0.15.1-ru.html">Русский</a></nav>
+<p>Three of you wrote about the same thing over the last days: the game was going fine, then within a month the cash
+fell billions — for some, trillions — into the red. One player sent a save — thank you, it found the bug in minutes.
+This fix ships on its own instead of waiting for 0.16: things like this should not wait.</p>
+
+<h2>What happened</h2>
+<ul>
+  <li>When your plant, warehouse or import bought a good in a country that barely uses it (lithium in India, natural
+  rubber in Vietnam, copper ore in Somalia), the game treated any lot as huge for that market. The price shot up on
+  the first day, the markup for a big lot had no limit — and the month ended billions in the red.</li>
+</ul>
+
+<h2>What now</h2>
+<ul>
+  <li>✚ <b>A market's size is counted fairly:</b> by how much of the good is made there and lies in stock, not only by
+  its own buyers. The same rubber import from Vietnam now pays the Vietnamese price.</li>
+  <li>✚ <b>The markup has a ceiling:</b> a big lot pays at most half again over the quote, and the quote itself never
+  goes above 8 times the base price.</li>
+  <li>✚ <b>The trade window</b> shows the same price the purchase charges.</li>
+  <li>✚ <b>Saves of 0.15 load.</b> Prices that had already shot up in an old save come back down over the following
+  months.</li>
+</ul>
+
+<p>Before the release we ran a "chaos test": an empire in small countries, plants on foreign inputs, warehouses importing
+and exporting huge lots between random countries — years of play on autopilot without a single hole. If the debts
+ever come back, send us the save: it says more than any description.</p>
+
+<p>Meanwhile 0.16 is nearly done: universities, thirty perks, a technology tree. Soon.</p>
+</body>
+</html>
