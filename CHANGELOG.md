@@ -1,5 +1,18 @@
 # Что нового / What's new
 
+## Beta 0.15.1 — 05.11.2026 · Бета 0.15.1
+**A fix for sudden debts: buying a big lot on a market that barely uses the good no longer costs billions.**
+
+- **Sudden debts:** a plant, a warehouse import or a purchase on a market where the good is barely used (lithium in India, natural rubber in Vietnam, copper ore in Somalia) treated every lot as huge: the price exploded within a day and the month ended billions or trillions in the red. Now a big lot pays at most half again over the quote, the quote never passes 8x the base, and a market's size counts its supply and stock, not only its own buyers. Thanks to remullian and the players who sent their saves.
+- **The trade window** shows the same price the purchase charges.
+- **Saves:** saves of 0.15 load in 0.15.1; prices already blown up in an old save come back down over the following months.
+
+**Исправление внезапных долгов: крупная закупка на рынке, где товар почти не нужен, больше не стоит миллиардов.**
+
+- **Внезапные долги:** завод, ввоз на склад или закупка на рынке, где товар почти не потребляют (литий в Индии, натуральный каучук во Вьетнаме, медная руда в Сомали), считали любую партию огромной: цена взлетала за день, и месяц кончался минусом в миллиарды и триллионы. Теперь крупная партия платит не больше чем в полтора раза сверх котировки, котировка не выше 8 базовых цен, а размер рынка считается по предложению и запасам, а не только по его покупателям. Спасибо remullian и игрокам, приславшим сохранения.
+- **Окно торговли** показывает ту же цену, что берёт закупка.
+- **Сохранения:** сохранения 0.15 грузятся в 0.15.1; цены, уже взвинченные в старом сохранении, сползают обратно за следующие месяцы.
+
 ## Beta 0.15 — 04.11.2026 · Бета 0.15
 **Your reviews, point by point: the owner's money, parts that add up, imports in one click, new machines, an overview on the right, and people behind the numbers.**
 
