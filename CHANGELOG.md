@@ -1,5 +1,28 @@
 # Что нового / What's new
 
+## Beta 0.16 — 10.11.2026 · Бета 0.16
+**The biggest update so far: the world is full of people with characters, memories and goals of their own, and your rivals play by the same rules as you.**
+
+- **Your character grows:** universities, each with its own branch and an elective that can "mutate"; thirty perks across five qualities that grow from what you do; a technology tree 2000–2020 where countries invent on their own and your lab can take apart a foreign sample.
+- **Talks and people:** talk to anyone, 17 approaches with their odds explained (a gift, a dinner, a loan, a mentor, a favour, an affair, a threat, blackmail, matchmaking); people come to you with requests, offers and schemes of their own; family affairs, love children, the dynasty tree, disinheritance.
+- **The world on the map:** logistics by road, rail and sea, straits that can close; your first building in a new country is signed in person; electricity in the cost of everything; the IT business (provider, search, social network, video, online shop, software, media).
+- **A fair world:** the AI gets no gifts and is no more helpless than you. Building takes time for everyone (a corner shop a month, a small factory two, a mega-factory nine); one antitrust cap for all; one set of takeover rules; magnates found companies, lobby and block bills, run for office and get fined by prosecutors like you.
+- **Tutorial and hints:** three new tutorial chapters (People and ties, Study and talents, Business abroad; already finished the tutorial? they are in Game → Training); opportunity icons at the top, as in Paradox games; hover hints for the new words.
+- **From your feedback:** "Best market" sales for lines and warehouses; Copy / Paste a building's setup; pick lists stay open; labs mark goods another lab studies; a whole category to a warehouse at once; cheaper building in poor provinces.
+- **Fixed:** a save from the middle of a month continues exactly; the world no longer freezes by the tenth year; dozens of small things from playtests and the audit.
+- **Saves:** saves of 0.15 load in 0.16.
+
+**Самое большое обновление: в мире живут люди со своим характером, памятью и целями, а конкуренты играют по тем же правилам, что и вы.**
+
+- **Ваш персонаж растёт:** университеты, у каждого своя ветка и факультатив, который может «мутировать»; тридцать перков в пяти качествах, которые растут от дела; древо технологий 2000–2020: страны изобретают сами, ваш НИИ разбирает чужие образцы.
+- **Разговоры и люди:** поговорить можно с любым, 17 подходов с объяснением шанса (подарок, ужин, займ, наставник, услуга, роман, угроза, шантаж, сватовство); люди приходят сами — с просьбами, предложениями и своими замыслами; романы, внебрачные дети, древо династии, лишение наследства.
+- **Мир на карте:** логистика по дорогам, железной дороге и морю, проливы закрываются; первую стройку в новой стране подписывают лично; электроэнергия в цене всего; IT-бизнес (провайдер, поисковик, соцсеть, видео, онлайн-магазин, софт, медиа).
+- **Честный мир:** у ИИ нет поблажек, и он не беспомощнее вас. Стройка идёт время у всех (магазин у дома — месяц, малая фабрика — два, мега-фабрика — девять); один антимонопольный предел; одни правила поглощений; магнаты основывают компании, лоббируют и срывают законы, идут на выборы, и прокуратура штрафует их, как вас.
+- **Обучение и подсказки:** три новые главы обучения («Люди и связи», «Учёба и таланты», «Бизнес за границей»; обучение уже пройдено — они в «Игра → Обучение»); значки возможностей наверху, как в играх Paradox; подсказки к новым словам.
+- **По вашим отзывам:** «Где выгоднее» у линий и складов; «Копировать / Вставить» настройки здания; списки не закрываются; НИИ помечает товар, который изучает другой; категория на склад целиком; стройка в бедных провинциях дешевле.
+- **Исправлено:** сохранение посреди месяца продолжается точь-в-точь; мир не застывает к десятому году; десятки мелочей из плейтестов и аудита.
+- **Сохранения:** сохранения 0.15 грузятся в 0.16.
+
 ## Beta 0.15.1 — 05.11.2026 · Бета 0.15.1
 **A fix for sudden debts: buying a big lot on a market that barely uses the good no longer costs billions.**
 
