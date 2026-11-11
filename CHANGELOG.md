@@ -1,5 +1,30 @@
 # Что нового / What's new
 
+## Beta 0.16.1 — 11.11.2026 · Бета 0.16.1
+**Your reviews of 0.16, point by point: many buildings at once, the power grid, an exchange that ships, "Best market" that really sells — and the world now starts as it was in 2000.**
+
+- **Many buildings at once:** the corporation's "Management" tab upgrades them all, adds a machine stage to every line and repairs the worn lines, each with its full cost.
+- **The power grid:** each country has a grid panel on its "Country" tab — capacity, demand, load, the price and why, outages, what your buildings pay.
+- **The exchange ships:** a lot you buy travels to the warehouse by logistics, a lot you sell is paid when it reaches the buyer (instant within one province). Goods on the way and money due count in your net worth; "Logistics" shows what you are owed.
+- **"Best market" sells:** ten markets ranked by what they add a month instead of the five dearest small ones; the list is checked weekly and follows a route change, a war or a closed strait. In our test the share sent abroad grew from 22% to almost half of what the markets paying more can take. Thanks to notchris12.
+- **Children:** the chance falls step by step with the mother's age up to 47; adoption of a child of 1–6 in the family window.
+- **Talents have icons**, as in CK3.
+- **The world of 2000:** the seventeen countries with a detailed history start as they were in 2000, not as they are today (Russia after the default and in the G8, China before the WTO, Chávez's Venezuela, Syria under the Baath party, Niger after its 1999 election); invented claims between countries with no common border are gone. New games only.
+- **Fixed:** an exchange lot in a warehouse no longer sells at the quality of your own goods; the build window no longer shows "+0% ()".
+- **Saves:** saves of 0.16 load in 0.16.1.
+
+**Ваши отзывы о 0.16 по пунктам: много зданий сразу, электросеть, биржа с доставкой, «Где выгоднее», который продаёт по-настоящему, — и мир теперь начинается таким, каким был в 2000 году.**
+
+- **Много зданий сразу:** вкладка «Управление» корпорации улучшает все здания, ставит этап станков на каждую линию и чинит изношенные линии — у каждой кнопки полная цена.
+- **Электросеть:** у каждой страны панель сети на вкладке «Страна» — мощность, спрос, загрузка, цена и почему, отключения, сколько платят ваши здания.
+- **Биржа с доставкой:** купленная партия едет на склад по логистике, проданная оплачивается, когда доедет до покупателя (в пределах провинции — сразу). Товар в пути и деньги за проданное входят в «Состояние»; «Логистика» показывает, сколько вам должны.
+- **«Где выгоднее» продаёт:** десять рынков по тому, сколько они добавят за месяц, вместо пяти самых дорогих мелких; список проверяется каждую неделю и видит смену маршрута, войну или закрытый пролив. В нашем тесте вывоз вырос с 22% почти до половины того, что могут взять выгодные рынки. Спасибо notchris12.
+- **Дети:** шанс снижается с возрастом матери постепенно, до 47 лет; усыновление ребёнка 1–6 лет в окне семьи.
+- **У талантов есть значки**, как в CK3.
+- **Мир 2000 года:** семнадцать стран с подробной историей начинают так, как было в 2000 году, а не как сегодня (Россия после дефолта и в G8, Китай до ВТО, Венесуэла Чавеса, Сирия партии Баас, Нигер после выборов 1999 года); выдуманные претензии между странами без общей границы убраны. Только для новых игр.
+- **Исправлено:** партия с биржи на складе больше не продаётся с качеством ваших товаров; окно стройки больше не пишет «+0% ()».
+- **Сохранения:** сохранения 0.16 грузятся в 0.16.1.
+
 ## Beta 0.16 — 10.11.2026 · Бета 0.16
 **The biggest update so far: the world is full of people with characters, memories and goals of their own, and your rivals play by the same rules as you.**
 
