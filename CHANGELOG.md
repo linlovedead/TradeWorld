@@ -1,5 +1,42 @@
 # Что нового / What's new
 
+## Beta 0.16.2 — 16.11.2026 · Бета 0.16.2
+**Computing and power: data centres, the cloud and AI models, your own power stations and power traded between countries, an IT office that makes games, and a new start screen.**
+
+- **A new start:** pick the country first (the detailed ones as cards, any other on the map), then an archetype or your own character; one start sum for everybody, a salaried job on by default.
+- **Data centres and the cloud:** servers are a good made from chips; a data centre holds racks, and its power bill depends on the climate (cheaper in the cold). Your platforms run on your data centres, and spare capacity is rented to the world's cloud market, which opens in 2006. The world's cloud companies appear on their dates.
+- **AI models and tokens:** from 2022, train your own model in your data centres and sell tokens through its API against the world's AI companies, each generation four times the work of the last. Thanks to Patient glitch for the idea of tokens as a chain of their own.
+- **Your own power stations:** gas, coal, hydro, solar, wind and nuclear. A station feeds the country's grid at the grid's price; fuel comes from your warehouse or the market.
+- **Power between countries:** neighbouring grids trade power, from the cheap one to the dear one, and both treasuries gain from it. The grid window shows capacity, load, the price per MWh, the consumers, three years of history and the trade with neighbours.
+- **The IT office:** teams work like a plant's lines. Games are titles of their own (genre, setting, platform, how the effort is split, the critics' score, sales, sequels) on one market shared with the world's studios, which make games by your rules. The critics' bar rises as a genre gets better.
+- **The state's money:** the country's budget month by month for three years; a head of state sees the treasury on the top bar.
+- **The map:** five new modes (trade, prices, wages, stability, relations) and "Where I can build", with the reason on hover.
+- **The phone in your hand:** it slides up with a 3x3 grid of apps; people call you with their requests, a talk with someone abroad is a call; "Messages", "Contacts", and "Channels" (the world's media with their slant). The phone changes with the era.
+- **Themes:** built-in skins and your own .theme files, with an editor.
+- **Goods icons:** every good has an icon; the most common ones have their own.
+- **Balance:** fewer goods stuck at their price cap for years; the world's traders close the price gaps between countries; buildings cost more, so a first billion takes about 8–12 years instead of 4.
+- **Saves in one place:** saves and settings now live in Documents\My Games\Trade World, so every version sees the same saves (the old ones are copied there once). The game tells you when a new version is out.
+- **Fixed:** country names in Russian are declined; IT buildings have the Finance and Management tabs; adopted children get their own traits; "in 44 days" means 44 days.
+- **Saves:** saves of 0.16.1 load in 0.16.2.
+
+**Вычисления и энергия: дата-центры, облако и ИИ-модели, свои электростанции и торговля током между странами, IT-офис, который делает игры, и новый стартовый экран.**
+
+- **Новый старт:** сначала страна (подробные — карточками, любая другая — на карте), потом архетип или свой персонаж; одна стартовая сумма для всех, работа по найму включена сразу.
+- **Дата-центры и облако:** серверы — товар из микросхем; дата-центр держит стойки, счёт за ток зависит от климата (на холоде дешевле). Ваши платформы работают на ваших дата-центрах, свободную мощность берёт мировой рынок облака — он открывается в 2006 году. Облачные компании мира появляются в свои годы.
+- **ИИ-модели и токены:** с 2022 года можно обучить свою модель в своих дата-центрах и продавать токены через её API против ИИ-компаний мира; каждое поколение — вчетверо больше работы, чем прошлое. Спасибо Patient glitch за идею токенов как отдельной цепочки.
+- **Свои электростанции:** газовая, угольная, ГЭС, солнечная, ветровая и атомная. Станция кормит сеть страны по цене сети; топливо — со своего склада или с рынка.
+- **Ток между странами:** соседние сети торгуют током, из дешёвой в дорогую, и обе казны на этом выигрывают. Окно сети показывает мощность, загрузку, цену за МВт·ч, потребителей, историю за три года и торговлю с соседями.
+- **IT-офис:** команды работают как линии завода. Игры — отдельные проекты (жанр, сеттинг, платформа, распределение сил, оценка критиков, продажи, сиквелы) на общем рынке со студиями мира, которые делают игры по вашим правилам. Планка критиков растёт вместе с жанром.
+- **Деньги государства:** бюджет страны по месяцам за три года; глава страны видит казну на верхней панели.
+- **Карта:** пять новых режимов (торговля, цены, зарплаты, стабильность, отношения) и «Где я могу строить» с причиной при наведении.
+- **Телефон в руке:** выезжает снизу, приложения сеткой 3×3; люди звонят со своими просьбами, разговор с человеком за границей — звонок; «Сообщения», «Контакты» и «Каналы» (медиа мира со своим уклоном). Телефон меняется вместе с эпохой.
+- **Темы:** встроенные оформления и свои файлы .theme, с редактором.
+- **Значки товаров:** у каждого товара есть значок, у самых частых — свой.
+- **Баланс:** меньше товаров годами стоят на потолке цены; торговцы мира закрывают разрывы цен между странами; здания дороже — первый миллиард теперь примерно за 8–12 лет, а не за 4.
+- **Сохранения в одном месте:** сохранения и настройки теперь лежат в «Документы\My Games\Trade World», и любая версия видит одни и те же сохранения (старые копируются туда один раз). Игра сама сообщает, что вышла новая версия.
+- **Исправлено:** названия стран склоняются («в Германии», «на Кубе»); у IT-зданий есть вкладки «Финансы» и «Управление»; у приёмных детей свои черты; «через 44 дня» — это 44 дня.
+- **Сохранения:** сохранения 0.16.1 грузятся в 0.16.2.
+
 ## Beta 0.16.1 — 11.11.2026 · Бета 0.16.1
 **Your reviews of 0.16, point by point: many buildings at once, the power grid, an exchange that ships, "Best market" that really sells — and the world now starts as it was in 2000.**
 
